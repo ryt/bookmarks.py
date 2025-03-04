@@ -35,8 +35,8 @@ The new `bookmarks.py.html` or custom named file will be created in the same dir
 ##### Show the help manual.
 
 ```console
-bookmarks.py
-bookmarks.py  man|help
+./bookmarks.py
+./bookmarks.py  man|help
 ```
 
 
