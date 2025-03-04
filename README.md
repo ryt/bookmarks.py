@@ -41,7 +41,7 @@ bookmarks.py  man|help
 
 
 
-##### Copyright & License
+###### 
 
-<small>Copyright (C) 2024 Ray Mentose.</small>
+<sub><sup>Copyright (C) 2024 Ray Mentose.</sup></sub>
 
