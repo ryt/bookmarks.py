@@ -14,9 +14,9 @@ Usage:
 
   Run on exported bookmarks html file.
 
-  Run             Input                   Output (optional)
-  ---------------------------------------------------------
-  ./bookmarks.py  (bookmark_file.html)    bookmarks.py.html
+  Run               Input                   Output (optional)
+  -----------------------------------------------------------
+  ./bookmarks.py    (bookmark_file.html)    bookmarks.py.html
 
 
   Help manual and version.
