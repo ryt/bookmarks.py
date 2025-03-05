@@ -5,11 +5,13 @@ A tool that creates a portable, optimized html bookmarks bar from your bookmark 
 
 After downloading, you can call the script directly at `./bookmarks.py`.
 
-If you prefer to create an alias, you can add it to your bash aliases:
+You can also create an alias for faster access. If you're using bash, add the following to your aliases.
 
 ```bash
-alias bookmarks='{install}/bookmarks/bookmarks.py'
+alias bookmarks.py='{install}/bookmarks.py/bookmarks.py'
 ```
+
+> Note: Depending on your system, aliases may be found in `~/.bashrc`, `~/.bash_aliases` or `~/.bash_profile`. For other shells, use the corresponding config file: e.g. `~/.zshrc`.
 
 #### Usage
 
